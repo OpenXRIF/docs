@@ -1,5 +1,5 @@
 ---
-title: Introduction to Synapse
+title: Introduction
 type: docs
 prev: docs/synapse/
 ---
