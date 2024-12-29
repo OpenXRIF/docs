@@ -1,6 +1,6 @@
 ---
 title: Documentation
-next: Axon
+next: axon
 ---
 
 🚧 Work in Progress 🚧
