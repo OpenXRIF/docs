@@ -1,18 +1,6 @@
 ---
 title: Documentation
-next: first-page
+next: Axon
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+🚧 Work in Progress 🚧
