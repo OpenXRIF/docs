@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/BrainFlight/doc/content"
+    base: "https://github.com/BrainFlight/docs/content"
