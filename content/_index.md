@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Welcome to BrainFlight!
 toc: false
 ---
 
-This is the landing page.
+We're a small group of engineers and researchers originating from the University of Waterloo who aim to make Embodied AI more accessible and enable safe human-robot interaction.
 
 ## Explore
 
@@ -11,7 +11,3 @@ This is the landing page.
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
