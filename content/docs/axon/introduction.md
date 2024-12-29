@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to Axon
 type: docs
 prev: docs/axon/
 ---
