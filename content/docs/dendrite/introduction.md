@@ -1,5 +1,5 @@
 ---
-title: Introduction to Dendrite
+title: Introduction
 type: docs
 prev: docs/dendrite/
 ---
