@@ -2,6 +2,8 @@
 title: Welcome to BrainFlight!
 toc: true
 next: about
+cascade:
+  type: docs
 ---
 
 🚧 Work in Progress 🚧
