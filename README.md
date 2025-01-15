@@ -1,2 +1,2 @@
-# BrainFlight Documentation
+# OpenXRIF Documentation
 Docs site

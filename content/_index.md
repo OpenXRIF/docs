@@ -1,5 +1,5 @@
 ---
-title: Welcome to BrainFlight!
+title: Welcome!
 toc: true
 next: about
 cascade:
