@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/openxrif/docs/content"
+    base: "https://github.com/openxrif/docs"
