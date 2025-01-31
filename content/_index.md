@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Home
 toc: true
 next: about
 cascade:
