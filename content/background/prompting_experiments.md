@@ -2,8 +2,6 @@
 title: Prompting Experiments
 ---
 
-# Prompt Engineering Documentation
-
 This document outlines the iterative process of developing and refining the prompt used to convert user natural language requests into JSON instructions for a robot. Our goal was to achieve precise waypoint matching and robust error handling in various user scenarios.
 
 ## Overview
