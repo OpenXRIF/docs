@@ -8,7 +8,7 @@ This document outlines the iterative process of developing and refining the prom
 
 The core task of our system is to take a user's request and convert it into a structured JSON format that a robot can interpret to navigate through a building. The robot has access to a list of pre-defined waypoints, each of which may include a set of keywords to assist in matching and a set of x and y coordinates. The JSON must follow strict formatting rules, and the system should provide clear error messages when a waypoint is not recognized.
 
-## Iterative Process
+## Iterative Process E7 prompt
 
 ### 1. Initial Prompt Design
 
