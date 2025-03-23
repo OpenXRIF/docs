@@ -7,3 +7,8 @@ cascade:
 
 ## What do we do?
 Embodied AI is a growing research field but at the moment, it is difficult to break into. We aim to improve the accessibility of large multi-modal language models that convert language instructions into serialized robot actions. Example applications for this include general-purpose assistants, tour guides, and security robots.
+
+
+## Higher-level overview
+
+![image](https://github.com/user-attachments/assets/cfe77f10-c17b-4a81-b554-56e7effda855)
