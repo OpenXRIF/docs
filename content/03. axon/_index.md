@@ -1,5 +1,5 @@
 ---
-title: Axon
+title: 03. Axon
 ---
 
 Axon is a platform that hosts VLMs/LLMs and provides toolchains for users to tackle embodied AI use cases with their models. Here are some features that Axon aims to provide:
